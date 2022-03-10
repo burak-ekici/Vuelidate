@@ -10,10 +10,14 @@
   "dependencies": {
     "@vuelidate/core": "^2.0.0-alpha.34",
     "@vuelidate/validators": "^2.0.0-alpha.26",
+    "axios": "^0.26.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23",
     "vite": "^2.8.0"
   }
 }
